@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nest JS and Express JS**
 
-- 💬 Ask me about **Typescript, NestJS , C# and .NET**
+- 💬 Ask me about **Typescript, NestJS, Javascript, Express JS , C# and .NET**
 
 - 📫 How to reach me **e.bahtiyar51@gmail.com**
 
