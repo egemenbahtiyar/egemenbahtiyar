@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Egemen Bahtiyar</h1>
 <h3 align="center">Backend developer in Turkey</h3>
 
-- 🌱 I’m currently learning **Nest JS and Express JS**
+- 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **Typescript, NestJS , C# and .NET**
+- 💬 Ask me about **C# and .NET**
 
 - 📫 How to reach me **e.bahtiyar51@gmail.com**
 
