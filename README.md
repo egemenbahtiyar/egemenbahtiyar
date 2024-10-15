@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **e.bahtiyar51@gmail.com**
 
-- ⚡ Fun fact **Playing video games and swimming**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/egemen-bahtiyar-2a9792202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egemen-bahtiyar-2a9792202" height="30" width="40" /></a>
